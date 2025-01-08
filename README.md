@@ -12,6 +12,8 @@ The projects in this repository cover a wide range of topics, including data pre
 |---------------------------------|------------------------------------------------------------------------------------------------|----------------------------------------|
 | **Fake News Prediction**        | Predicts whether a news article is real or fake using natural language processing.             | Logistic Regression, TF-IDF, NLP       |
 | **Diabetes Prediction**         | Classifies the likelihood of diabetes based on medical input data.                             | Logistic Regression, Data Preprocessing|
+| **House Price Prediction**      | Predicts housing prices using machine learning models based on features like rooms and location.| Linear Regression, Data Visualization  |
+
 
 ## Repository Structure
 
